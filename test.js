@@ -7,5 +7,5 @@ console.log(x + y);
 if(x == 4) {
     console.log("Hello")
 } else {
-    console.log("no one")
+    console.log("no ")
 }
